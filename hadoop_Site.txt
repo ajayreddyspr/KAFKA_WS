@@ -1,0 +1,4 @@
+http://erimkaki.blogspot.in/2016/02/apache-hive-json-data-processing.html
+http://www.geoinsyssoft.com/hive-json/
+http://erimkaki.blogspot.in/2016/01/apache-kafka-zookeeper-multi-broker-cluster.html
+http://erimkaki.blogspot.in/2015/12/hadoop-multi-node-cluster-on-amazon-aws-ec2.html
